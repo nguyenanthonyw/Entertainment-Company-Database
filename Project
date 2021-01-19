@@ -4,11 +4,11 @@
  use project;
  
  create table Company(
-	Address varchar(100),
+   Address varchar(100),
     Phone varchar(12),
     website varchar(70));
     
-    insert into company values ('12 Seolleung-ro 103-gil, Yeoksam 1(il)-dong Gangnam-gu, Seoul, South Korea', '02.2051.3878', 'http://www.blockberrycreative.com/');
+ insert into company values ('12 Seolleung-ro 103-gil, Yeoksam 1(il)-dong Gangnam-gu, Seoul, South Korea', '02.2051.3878', 'http://www.blockberrycreative.com/');
     
     
 create table Contract(
