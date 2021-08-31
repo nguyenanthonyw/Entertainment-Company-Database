@@ -38,8 +38,7 @@ Here's how:
 
 The program was built using the frame work listed below:
 * [MySQL](https://www.mysql.com/)
-* [Pandas](https://pandas.pydata.org/)
-* [Scikit-learn](https://scikit-learn.org/stable/)
+
 
 
 
@@ -48,38 +47,22 @@ The program was built using the frame work listed below:
 
 Insturctions with setting up the framework
 
+
 ### Prerequisites
 
-Required frame work
-* NumPy
-  ```sh
-  pip install numpy
-  ```
- * Pandas
-  ```sh
-  pip install pandas
-  ```
-  * sklearn 
-  ```sh
-  pip install -U scikit-learn
-  ```
+Required .jar file
+mysqlconnector.jar
+
   
 
 ### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/nguyenanthonyw/Faud-Detection-.git
-   ```
+1. download the .jar file
+
 2. Install packages
-   ```sh
-   numpy install
    ```
-      ```sh
-   pandas install
-   ```
-      ```sh
-   sklearn install
+   install the mysqlconnector.jar
+
    ```
 
 
