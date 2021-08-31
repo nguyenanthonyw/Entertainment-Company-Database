@@ -89,6 +89,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/nguyenanthonyw/Faud-Detection-.git](https://github.com/nguyenanthonyw/Faud-Detection-.git)
+Project Link: [https://github.com/nguyenanthonyw/Entertainment-Company-Database](https://github.com/nguyenanthonyw/Entertainment-Company-Database)
 
 
